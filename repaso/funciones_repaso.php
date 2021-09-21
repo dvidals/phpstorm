@@ -158,5 +158,6 @@ echo medias(4,5,16,"geométrica");
 echo "<br/>";
 echo medias(4,5,16,"armónica");
 
+//hola
 
 ?>
